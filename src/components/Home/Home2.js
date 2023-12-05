@@ -31,19 +31,6 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> 
               </i>
               <br />
-              <br />
-              Whenever possible, I also try to learn
-               <b className="purple"> Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
